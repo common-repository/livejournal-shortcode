@@ -1,0 +1,26 @@
+span.invalid-lj
+{
+	padding: 0.25em 0.5em 0.25em 0.5em;
+	
+	color: #C72A21;
+	background-color: #E7928D;
+	border-color: #C72A21;
+}
+
+a.lj-user
+{
+	background: url( 'userinfo.gif' ) no-repeat left top;
+	padding-left: 18px;
+}
+
+a.lj-community
+{
+	background: url( 'community.gif' ) no-repeat left top;
+	padding-left: 20px;
+}
+
+a.lj-news
+{
+	background: url( 'newsinfo.gif' ) no-repeat left top;
+	padding-left: 20px;
+}
